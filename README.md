@@ -1,1 +1,1 @@
-# NF_modeling
+# Generative modeling
